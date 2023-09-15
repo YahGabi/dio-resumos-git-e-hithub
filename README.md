@@ -12,7 +12,7 @@ do curso Versionamento de Código com Git e Github da
 
 | Aulas | Resumos |
 |------|----------|
-| Gravando Alterações no Repositório local | [Resumos](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+| Gravando Alterações no Repositório local | [Resumo](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 ```
 git init 
